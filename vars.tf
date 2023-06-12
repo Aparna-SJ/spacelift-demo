@@ -3,7 +3,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "spacelift"
+  default = "ap-south.pem"
 }
 
 variable "ami_id" {
