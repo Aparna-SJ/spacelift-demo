@@ -3,7 +3,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "ap-south.pem"
+  default = "ap-south"
 }
 
 variable "ami_id" {
