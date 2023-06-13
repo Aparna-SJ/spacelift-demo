@@ -7,5 +7,5 @@ variable "key_name" {
 }
 
 variable "ami_id" {
-    default = "ami-06c4532923d4ba1ec"
+    default = "ami-0d38bdcff6dfc60cf"
 }
